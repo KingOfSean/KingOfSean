@@ -1,3 +1,8 @@
+[![KingOfSean's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingOfSean&theme=dark&show_icons=true)](https://github.com/KingOfSean/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingOfSean&layout=compact&theme=dark&show_icons=true)](https://github.com/KingOfSean/github-readme-stats)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=KingOfSean.KingOfSean)
+<h3 align=center>Hello World, it's me!</h3>
+
 ### Hi there 👋
 
 <!--
